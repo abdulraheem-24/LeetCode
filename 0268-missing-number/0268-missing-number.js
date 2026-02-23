@@ -9,6 +9,6 @@ var missingNumber = function(nums) {
             if (i == x) break;
             else missed++;
         }
-        if (missed >= nums.length) return i;
+        if (missed == nums.length) return i;
     }
 };

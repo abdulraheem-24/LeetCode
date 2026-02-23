@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -55,8 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->

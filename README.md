@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdulraheem-24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/abdulraheem-24/LeetCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/abdulraheem-24/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/abdulraheem-24/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |

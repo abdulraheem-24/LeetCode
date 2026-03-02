@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
+| [2235-add-two-integers](https://github.com/abdulraheem-24/LeetCode/tree/master/2235-add-two-integers) |
 ## Array
 |  |
 | ------- |

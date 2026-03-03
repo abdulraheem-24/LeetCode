@@ -34,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/abdulraheem-24/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulraheem-24/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abdulraheem-24/LeetCode/tree/master/0290-word-pattern) |
 ## String Matching
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 ## Recursion
 |  |

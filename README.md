@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abdulraheem-24/LeetCode/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/abdulraheem-24/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/abdulraheem-24/LeetCode/tree/master/0344-reverse-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |

@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/abdulraheem-24/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/abdulraheem-24/LeetCode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdulraheem-24/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/abdulraheem-24/LeetCode/tree/master/0917-reverse-only-letters) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/abdulraheem-24/LeetCode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## String Matching
 |  |
 | ------- |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/abdulraheem-24/LeetCode/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Recursion
 |  |
 | ------- |

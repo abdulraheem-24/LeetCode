@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/abdulraheem-24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abdulraheem-24/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/abdulraheem-24/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/abdulraheem-24/LeetCode/tree/master/0125-valid-palindrome) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abdulraheem-24/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/abdulraheem-24/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/abdulraheem-24/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/abdulraheem-24/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

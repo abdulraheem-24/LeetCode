@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/abdulraheem-24/LeetCode/tree/master/0917-reverse-only-letters) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/abdulraheem-24/LeetCode/tree/master/2418-sort-the-people) |
+| [2833-furthest-point-from-origin](https://github.com/abdulraheem-24/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Math
 |  |
 | ------- |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/abdulraheem-24/LeetCode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->

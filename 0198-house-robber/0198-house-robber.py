@@ -4,7 +4,7 @@ class Solution:
         def max_money(i):
             if i >= len(nums) : 
                 return 0; 
-            if memo.get(i) != None: 
+            if i in memo: 
                 return memo[i]; 
 
             maximum = max(nums[i] + max_money(i + 2), max_money(i + 1))

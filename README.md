@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abdulraheem-24/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
@@ -144,5 +145,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/abdulraheem-24/LeetCode/tree/master/0198-house-robber) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

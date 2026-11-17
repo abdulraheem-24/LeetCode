@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/abdulraheem-24/LeetCode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
+| [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/abdulraheem-24/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

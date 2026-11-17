@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/abdulraheem-24/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/abdulraheem-24/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulraheem-24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/abdulraheem-24/LeetCode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/abdulraheem-24/LeetCode/tree/master/0217-contains-duplicate) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/abdulraheem-24/LeetCode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulraheem-24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abdulraheem-24/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/abdulraheem-24/LeetCode/tree/master/0312-burst-balloons) |
 ## Memoization

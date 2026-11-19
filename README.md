@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/abdulraheem-24/LeetCode/tree/master/2235-add-two-integers) |
 ## Array
@@ -164,4 +165,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

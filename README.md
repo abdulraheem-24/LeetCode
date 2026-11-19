@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/abdulraheem-24/LeetCode/tree/master/2235-add-two-integers) |
+| [3099-harshad-number](https://github.com/abdulraheem-24/LeetCode/tree/master/3099-harshad-number) |
 ## Array
 |  |
 | ------- |

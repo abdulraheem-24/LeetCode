@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/abdulraheem-24/LeetCode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/abdulraheem-24/LeetCode/tree/master/3099-harshad-number) |
 ## Array
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abdulraheem-24/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/abdulraheem-24/LeetCode/tree/master/0198-house-robber) |
 | [0312-burst-balloons](https://github.com/abdulraheem-24/LeetCode/tree/master/0312-burst-balloons) |
+| [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -187,4 +191,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/abdulraheem-24/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/abdulraheem-24/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/abdulraheem-24/LeetCode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/abdulraheem-24/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/abdulraheem-24/LeetCode/tree/master/0292-nim-game) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abdulraheem-24/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 ## Sorting
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/abdulraheem-24/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/abdulraheem-24/LeetCode/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |

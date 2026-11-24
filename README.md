@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/abdulraheem-24/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/abdulraheem-24/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0917-reverse-only-letters](https://github.com/abdulraheem-24/LeetCode/tree/master/0917-reverse-only-letters) |
+| [1816-truncate-sentence](https://github.com/abdulraheem-24/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/abdulraheem-24/LeetCode/tree/master/2418-sort-the-people) |
 | [2833-furthest-point-from-origin](https://github.com/abdulraheem-24/LeetCode/tree/master/2833-furthest-point-from-origin) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
 | [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1816-truncate-sentence](https://github.com/abdulraheem-24/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/abdulraheem-24/LeetCode/tree/master/2418-sort-the-people) |
 ## Hash Table

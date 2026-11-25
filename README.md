@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/abdulraheem-24/LeetCode/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/abdulraheem-24/LeetCode/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/abdulraheem-24/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/abdulraheem-24/LeetCode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/abdulraheem-24/LeetCode/tree/master/3099-harshad-number) |
 ## Array
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/abdulraheem-24/LeetCode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/abdulraheem-24/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1816-truncate-sentence](https://github.com/abdulraheem-24/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |

@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulraheem-24/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/abdulraheem-24/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/abdulraheem-24/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1816-truncate-sentence](https://github.com/abdulraheem-24/LeetCode/tree/master/1816-truncate-sentence) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/abdulraheem-24/LeetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/abdulraheem-24/LeetCode/tree/master/2418-sort-the-people) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/abdulraheem-24/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0463-island-perimeter](https://github.com/abdulraheem-24/LeetCode/tree/master/0463-island-perimeter) |
+| [1672-richest-customer-wealth](https://github.com/abdulraheem-24/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Depth-First Search
 |  |
 | ------- |
